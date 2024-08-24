@@ -17,7 +17,10 @@ This project presents a comprehensive sales analysis of AP Supermarket using Tab
 This project is designed to provide actionable insights that can support strategic decision-making for improving sales, enhancing customer experience, and driving profitability at AP Supermarket.
 
 #Dashboards Links are given below
+
 [Analysis1 Dashboard](https://public.tableau.com/views/APSupermarketsalesanalysisDashbooard1/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [Analysis2 Dashboard](https://public.tableau.com/views/APSupermarketsalesanalysisDashbooard2/dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 [Analysis3 Dashboard](https://public.tableau.com/views/APSupermarketsalesanalysisDashbooard3/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
